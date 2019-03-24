@@ -1,6 +1,6 @@
-#EduEasy(Education Assistant)
+# EduEasy(Education Assistant)
 
-##Abstract
+## Abstract
 College admissions are stressful for everyone involved. That includes the applicant, teachers, counselors, and mentors. That being said, few will feel this stress as acutely as parents. After class 12th Science results being out, parents and students are facing problems to find appropriate IITs as per student’s results and interest. They might have gone through various websites such as individual IIT websites, ‘quora’, ‘career360’ etc. and consult various people to find out which IIT is best for student. Relying on others reviews gives biased and subjective answers. For all these tasks it might take too much time and effort and in turn sometimes they might not get satisfactory and to the point answers.
 
 We understand the unique pressure felt by the parents of college applicants. To overcome these problem we came up with a NLP (Natural Language Processing) based solution named ‘EduEasy’ - A Conversational Agent which provides below functionalities.
